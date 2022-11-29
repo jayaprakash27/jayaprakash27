@@ -2,8 +2,8 @@
 <h3 align="center">A passionate web developer from Odisha, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaprakash27&label=Profile%20views&color=0e75b6&style=flat" alt="jayaprakash27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayaprakash27" alt="jayaprakash27" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayaprakash27" alt="jayaprakash27" /></a> </p> -->
 
 - 🔭 I’m currently working on [Restaurant delivery app](https://petu.netlify.app/)
 
