@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sahoojayaprakash27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wHTEOSwuzS_ZSWCVdkx_kzP0vqTvwoQN/view?usp=share_link](https://drive.google.com/file/d/1wHTEOSwuzS_ZSWCVdkx_kzP0vqTvwoQN/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aO1XFLP5z0sVSfYxjKqtDTGN11jiedBw/view?usp=share_link)
 
 - ⚡ Fun fact **I edit videos too :)**
 
