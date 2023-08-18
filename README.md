@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Restaurant delivery app](https://petu.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://jayaprakash27.github.io/MyPortfloio/](https://jayaprakash27.github.io/MyPortfloio/)
+- 👨‍💻 All of my projects are available at [https://jayis.live](https://jayis.live/)
 
 - 📫 How to reach me **sahoojayaprakash27@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aO1XFLP5z0sVSfYxjKqtDTGN11jiedBw/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17raplkm6-OO2P7JNqVGZM6lTFTkNlKhd/view?usp=drivesdk)
 
 - ⚡ Fun fact **I edit videos too :)**
 
